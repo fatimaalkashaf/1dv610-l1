@@ -10,16 +10,4 @@ npm install
 npm start
 
 #### Example Output
-Welcome to the course 1DV610!🎓😃
-===================================
-Introduction to Software Quality
-===================================
-
-What is your name? Fatima
-
-✨ Welcome Message ✨
-=========================
-Hello Fatima! 👋
-Ready for the course 1DV610 - Introduction to Software Quality?
-Hopefully you are not as nervous as I am😆 Good luck!🥰
-==========================
+![Program Example](outputL1.png)
