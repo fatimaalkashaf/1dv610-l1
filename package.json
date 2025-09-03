@@ -1,0 +1,25 @@
+{
+  "name": "1dv610-l1",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A welcome program for L1 in the course 1DV610 - Introduction to Software Quality.",
+  "main": "src/welcome.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/welcome.js",
+    "dev": "nodemon --inspect src/welcome.js",
+    "lint": "npx eslint . || exit 0",
+    "lint:fix": "npx eslint . --fix || exit 0"
+  },
+  "keywords": [
+    "1dv610",
+    "welcome"
+  ],
+  "author": "Fatima Alkashaf <fa223ns@student.lnu.se>",
+  "license": "MIT",
+  "devDependencies": {
+    "@lnu/eslint-config": "^1.1.10",
+    "eslint": "^8.47.0",
+    "nodemon": "^3.1.9"
+  }
+}
